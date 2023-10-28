@@ -1,11 +1,26 @@
+#include <stdbool.h>
 typedef struct{
-    float *coef;
-    int grau;
+    float *coef;            //ponteiro p vetor de coefs
+    int grau;               //grau do polinomio
 }pol;
 
-void free_pol(pol *p);
-//pol new_pol(char *s);
+
+pol polFromFile(char *filename);
 pol newPol(int grau);
-float funcao(pol *p, float z);
+void freePol(pol *p);
 bool polIsNull(pol p);
-pol somaPol(pol *p1, pol *p2);
+float funcao(pol p, float z);
+void printaPol(pol p);
+void carregaPol(pol p, float *v); 
+
+
+pol somaPol(pol p1, pol p2, bool sub);
+pol prodPol(pol p1, pol p2);
+
+
+pol derivaPol(pol p);
+pol integraIndefPol(pol p, float c);
+float integraDefPol(pol p, float sup, float inf);
+
+
+float newtonRaphson(pol p, float xZero, int tmax, float e);
