@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/aluno/Downloads/exercicio02/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/aluno/Downloads/exercicio02/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'exercicio02 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'exercicio02 1.0-SNAPSHOT API'
+br.unesp.rc.exercicio02
+br.unesp.rc.exercicio02.modelo
+br.unesp.rc.exercicio02.repositorio
+C:\Users\aluno\Downloads\exercicio02\src\main\java = 1712355727334
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\allclasses-index.html = 1712361634985
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\allpackages-index.html = 1712361634988
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\element-list = 1712361634915
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\help-doc.html = 1712361635011
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\index-all.html = 1712361635007
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\index.html = 1712361634971
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\jquery-ui.overrides.css = 1712361635046
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\member-search-index.js = 1712361634992
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\module-search-index.js = 1712361634989
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\overview-summary.html = 1712361635008
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\overview-tree.html = 1712361634967
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\package-search-index.js = 1712361634990
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\script.js = 1712361635016
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\search.js = 1712361635019
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\stylesheet.css = 1712361635014
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\tag-search-index.js = 1712361634993
+C:\Users\aluno\Downloads\exercicio02\target\site\apidocs\type-search-index.js = 1712361634991
