@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 
 int main() {
     FILE *fd;
@@ -43,7 +43,7 @@ int main() {
     
     //////////////////////////////
 	const int quantidade = 5;
-    char nomes[quantidade][50] = {"Nome-1", "Nome-2", "Nome-X", "Nome-1", "Nome-3"};
+    char nomes[quantidade][50] = {"Pedro", "Lucas Silva e Silva", "Nome-X", "Joao da Silva", "Nome-3"};
        
     fd = fopen("busca_s.bin", "w+b");
     for (int i=0; i<quantidade; i++)
